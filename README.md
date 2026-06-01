@@ -6,7 +6,7 @@ A responsive eight-page website for Canberra Modern, a volunteer organisation fo
 
 ## Live Site
 
-
+[alekozf.github.io/Website_Redesign_CM](https://alekozf.github.io/Website_Redesign_CM/)
 
 ---
 
