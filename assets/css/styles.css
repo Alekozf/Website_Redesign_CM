@@ -1249,14 +1249,6 @@ main { flex: 1 0 auto; display: block; }
   text-transform: uppercase;
 }
 .site-footer__form input::placeholder { color: rgba(255,255,255,0.4); }
-.site-footer__bottom {
-  margin-top: 56px;
-  padding-top: 32px;
-  border-top: 1px solid rgba(255,255,255,0.1);
-  font-size: 0.8125rem;
-  color: rgba(255,255,255,0.75);
-  text-align: left;
-}
 
 /*  12. Explore page  */
 
